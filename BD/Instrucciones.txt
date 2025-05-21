@@ -1,0 +1,1 @@
+Para usar los archivos con la bd, cree una bd e importe la bd
